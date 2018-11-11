@@ -1,0 +1,13 @@
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+https://devhints.io/bash
+
+idea:
+20 minutes to eye relax:
+check battery in bet < 40 % to charge and > 80% to uncharge
+VPN connect ON
+auto login Wifi and sessions
+print all info of computer, server
+encrypt me a file, a text or a thing
+auto sync file and return get log file
+realtime auto app
+
